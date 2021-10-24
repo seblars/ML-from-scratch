@@ -1,2 +1,13 @@
 # ML-from-scratch
-During my time as a tutor in ME4 Machine Learning course, I found it usful to implement algorithms from scratch to improve my own understanding of the underlying maths. This repository is my attempt to codify that learning into a concise format. I put forward the maths for each algorithm. As a sanity check I then compare results with sklearn.
+During my time as a teaching assistant for a Machine Learning course, I found it usful to implement many of the algorithms and neural networks from scratch. Keeping them here for future reference.
+
+Algorithms covered in the course:
+- Naive Bayes
+- Linear regression
+- Linear discriminant analysis
+- Fully connected neural networks
+- Random forrest
+- Linear SVM
+
+Additional implementations:
+- Logistic regression
