@@ -3,7 +3,7 @@ As a teaching assistant for a Machine Learning course, I found it usful to imple
 
 Algorithms covered in tutorials:
 - Naive Bayes :heavy_check_mark:
-- Linear regression :heavy_check_mark:
+- Linear Regression :heavy_check_mark:
 - Support Vector Machines (SVM)
 - Fully Connected Neural Networks
 - K Nearest Neighbours (KNN)
