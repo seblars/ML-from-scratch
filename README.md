@@ -3,11 +3,11 @@ During my time as a teaching assistant for a Machine Learning course, I found it
 
 Algorithms covered in the course:
 - Naive Bayes :heavy_check_mark:
-- Linear regression
+- Linear regression :heavy_check_mark:
 - Linear discriminant analysis
 - Fully connected neural networks
 - Random forrest
 - Linear SVM
 
 Additional implementations:
-- Logistic regression
+- Logistic regression :heavy_check_mark:
