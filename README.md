@@ -8,12 +8,14 @@ Algorithms covered in tutorials:
 - Fully Connected Neural Networks
 - K Nearest Neighbours (KNN)
 - Decision Trees
-- KMeans Clustering
+- K-Means clustering :heavy_check_mark:
 - Principal Component Analysis
 
 Additional implementations:
 - Logistic Regression :heavy_check_mark:
 - Convolutional Neural Networks
+- Recurrent Neural Networks
+- Gaussian mixture, the EM algorithm
 
 Testing maths:
 $$ f(x) \approx x $$
