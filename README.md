@@ -1,5 +1,5 @@
 # ML-from-scratch
-As a teaching assistant for a Machine Learning course, I found it usful to implement many of the algorithms from scratch. I have added notes on the derivation of each algorithm. I also compare the performance with a library implementation such as scikit-learn or PyTorch.
+As a teaching assistant for a Machine Learning course, I found it usful to implement many of the algorithms from scratch. I have added notes on the derivation of each algorithm. I also compare the outputs with a library implementation such as sci-kit learn or PyTorch.
 
 Algorithms covered in tutorials:
 - Naive Bayes :heavy_check_mark:
