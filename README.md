@@ -15,4 +15,4 @@ Additional implementations:
 - Logistic Regression :heavy_check_mark:
 - Convolutional Neural Networks
 - Recurrent Neural Networks
-- Gaussian mixture, the EM algorithm
+- Mixture of Gaussians :heavy_check_mark:
