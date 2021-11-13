@@ -5,7 +5,7 @@ Algorithms covered in tutorials:
 - Naive Bayes :heavy_check_mark:
 - Linear Regression :heavy_check_mark:
 - Support Vector Machines (SVM) (in-progress)
-- Fully Connected Neural Networks
+- Fully Connected Neural Networks :heavy_check_mark:
 - K Nearest Neighbours (KNN)
 - Decision Trees
 - K-Means clustering :heavy_check_mark:
@@ -13,6 +13,6 @@ Algorithms covered in tutorials:
 
 Additional implementations:
 - Logistic Regression :heavy_check_mark:
-- Convolutional Neural Networks
+- Convolutional Neural Networks 
 - Recurrent Neural Networks
 - Mixture of Gaussians :heavy_check_mark:
