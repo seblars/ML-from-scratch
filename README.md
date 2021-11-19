@@ -6,7 +6,7 @@ Algorithms covered in tutorials:
 - Linear Regression :heavy_check_mark:
 - Support Vector Machines (SVM) (in-progress)
 - Fully Connected Neural Networks :heavy_check_mark:
-- K Nearest Neighbours (KNN)
+- K Nearest Neighbors (KNN) :heavy_check_mark:
 - Decision Trees
 - K-Means clustering :heavy_check_mark:
 - Principal Component Analysis
