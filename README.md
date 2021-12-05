@@ -9,7 +9,7 @@ Algorithms covered in tutorials:
 - K Nearest Neighbors (KNN) :heavy_check_mark:
 - Decision Trees :heavy_check_mark:
 - K-Means clustering :heavy_check_mark:
-- Principal Component Analysis :heavy_check_mark:
+- Principal Component Analysis (PCA):heavy_check_mark:
 
 Additional implementations:
 - Logistic Regression :heavy_check_mark:
