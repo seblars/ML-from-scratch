@@ -7,7 +7,7 @@ Algorithms covered in tutorials:
 - Support Vector Machines (SVM) (in-progress)
 - Fully Connected Neural Networks :heavy_check_mark:
 - K Nearest Neighbors (KNN) :heavy_check_mark:
-- Decision Trees
+- Decision Trees :heavy_check_mark:
 - K-Means clustering :heavy_check_mark:
 - Principal Component Analysis :heavy_check_mark:
 
