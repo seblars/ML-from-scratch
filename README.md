@@ -13,6 +13,4 @@ Algorithms covered in tutorials:
 
 Additional implementations:
 - Logistic Regression :heavy_check_mark:
-- Convolutional Neural Networks 
-- Recurrent Neural Networks
 - Mixture of Gaussians :heavy_check_mark:
